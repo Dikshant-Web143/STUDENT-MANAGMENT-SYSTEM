@@ -1,0 +1,14 @@
+Features of Student Management System
+🔐 Admin Login System – Secure login using username and password.
+👨‍🎓 Student Management – Add, update, delete, view, and search student records.
+🔍 Student Search – Search students by name or roll number.
+📚 Course Management – Add and delete courses with course code, semester, and teacher details.
+📊 Attendance Management – Store attendance records and automatically calculate attendance percentage.
+📝 Marks Management – Add student marks and total marks for different subjects.
+🎯 Automatic Grade Calculation – Automatically calculates grades based on marks percentage.
+💰 Fee Management – Manage total fees, paid fees, and remaining fees.
+🖥️ User-Friendly GUI – Developed using Java Swing and AWT.
+⚠️ Input Validation – Prevents invalid marks, attendance, and fee values.
+🗂️ CRUD Operations – Supports Create, Read, Update, and Delete operations.
+🧱 Object-Oriented Programming – Uses Java classes, objects, models, and collections.
+📋 Table-Based Data Display – Displays records in organized tables for easy management.
